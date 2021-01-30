@@ -1,0 +1,3 @@
+http://52.88.123.27:8080/search/?query=type:a&hits=7
+http://52.88.123.27:8080/search/?query=type:b&hits=7
+http://52.88.123.27:8080/search/?query=type:c&hits=7

@@ -1,7 +1,7 @@
 Steps to reproduce
 
 ```shell
-docker run --detach --name vespa-feed --hostname vespa-container --volume `pwd`:/app --publish 8080:8080 vespaengine/vespa
+docker run --detach --name vespa-response --hostname vespa-container --volume `pwd`:/app --publish 8080:8080 vespaengine/vespa
 ```
 
 ```shell
