@@ -1,0 +1,27 @@
+schema doc {
+    document doc {
+        field id type string {
+            indexing: summary | attribute
+        }
+
+        field type type string {
+            indexing: summary | attribute
+        }
+
+        struct InnerStruct {
+            field num type double {}
+            field str type string {}
+            field list type array<string> {}
+        }
+
+        field struct_array type array<InnerStruct> {
+            indexing: summary
+        }
+
+    }
+
+    document-summary minimal {
+        summary id type string {}
+        summary type type string {}
+    }
+}
