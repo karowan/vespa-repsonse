@@ -24,4 +24,11 @@ schema doc {
         summary id type string {}
         summary type type string {}
     }
+
+
+    rank-profile default inherits default {
+        first-phase {
+            expression: random
+        }
+    }
 }

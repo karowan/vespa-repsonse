@@ -1,0 +1,10 @@
+http://localhost:8080/search/?query=type:a&hits=8
+http://localhost:8080/search/?query=type:b&hits=8
+http://localhost:8080/search/?query=type:c&hits=8
+http://localhost:8080/search/?query=type:d&hits=8
+http://localhost:8080/search/?query=type:e&hits=8
+http://localhost:8080/search/?query=type:f&hits=8
+http://localhost:8080/search/?query=type:g&hits=8
+http://localhost:8080/search/?query=type:h&hits=8
+http://localhost:8080/search/?query=type:i&hits=8
+http://localhost:8080/search/?query=type:j&hits=8
