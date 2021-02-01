@@ -10,5 +10,5 @@ docker exec -it vespa-response bash -c '/opt/vespa/bin/vespa-deploy prepare /app
 
 ```shell
 docker exec vespa-response bash -c 'java -jar /opt/vespa/lib/jars/vespa-http-client-jar-with-dependencies.jar --verbose \
---file /app/feed/data.jl --host localhost --port 8080'
+--file /app/feed/data.jsonl --host localhost --port 8080'
 ```

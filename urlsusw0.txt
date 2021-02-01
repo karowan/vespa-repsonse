@@ -1,0 +1,10 @@
+http://54.202.18.123:8080/search/?query=type:a&hits=6
+http://54.202.18.123:8080/search/?query=type:b&hits=6
+http://54.202.18.123:8080/search/?query=type:c&hits=6
+http://54.202.18.123:8080/search/?query=type:d&hits=6
+http://54.202.18.123:8080/search/?query=type:e&hits=6
+http://54.202.18.123:8080/search/?query=type:f&hits=6
+http://54.202.18.123:8080/search/?query=type:g&hits=6
+http://54.202.18.123:8080/search/?query=type:h&hits=6
+http://54.202.18.123:8080/search/?query=type:i&hits=6
+http://54.202.18.123:8080/search/?query=type:j&hits=6
